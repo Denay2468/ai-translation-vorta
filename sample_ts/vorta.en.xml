@@ -1,0 +1,39 @@
+<TS version="2.1" language="en_US">
+<context>
+<n>RepoTab</n>
+<message>
+<source>Backup Now</source>
+<translation>[ID] Backup Now</translation>
+</message>
+<message>
+<source>Delete Archive</source>
+<translation>[ID] Delete Archive</translation>
+</message>
+<message>
+<source>Mount</source>
+<translation>[ID] Mount</translation>
+</message>
+</context>
+<context>
+<n>SettingsTab</n>
+<message>
+<source>Compression</source>
+<translation>[ID] Compression</translation>
+</message>
+<message>
+<source>Save Settings</source>
+<translation>[ID] Save Settings</translation>
+</message>
+</context>
+<context>
+<n>WelcomeTab</n>
+<message>
+<source>Add Repository</source>
+<translation>[ID] Add Repository</translation>
+</message>
+<message>
+<source>Already translated string</source>
+<translation>This one is already done</translation>
+</message>
+</context>
+</TS>
